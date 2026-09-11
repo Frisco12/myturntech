@@ -24,6 +24,3 @@ Tech startup platform offering scholarships and educational opportunities for un
 
 ## Live Demo
 myturntech.com
-
-## Live Demo
-[Add link if deployed]
